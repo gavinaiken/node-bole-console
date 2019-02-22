@@ -1,6 +1,6 @@
 {
-  "name": "bole-console",
-  "version": "0.1.10",
+  "name": "bole-console-lodash",
+  "version": "1.0.0",
   "description": "Console formatter for the bole logger",
   "keywords": [
     "bole",
@@ -8,7 +8,7 @@
     "console"
   ],
   "author": "Gabriel Llamas <gagle@outlook.com>",
-  "repository": "git://github.com/gagle/node-bole-console.git",
+  "repository": "git://github.com/gavinaiken/node-bole-console-lodash.git",
   "engines": {
     "node": ">=0.10"
   },

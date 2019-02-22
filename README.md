@@ -1,6 +1,11 @@
 bole-console
 ============
 
+#### Fork of https://github.com/gagle/node-bole-console ####
+
+Forked to switch from `clone` to `lodash.deepClone` which solves an issue with cloning
+error objects with read only properties.
+
 #### Console formatter for the bole logger ####
 
 [![npm][npm-image]][npm-url]
