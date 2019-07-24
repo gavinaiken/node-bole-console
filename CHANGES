@@ -1,4 +1,7 @@
-v1.0.0 (22 Feb 2021)
+v1.1.0 (24 Jul 2019)
+  Wrap _write method in try/catch
+
+v1.0.0 (22 Feb 2019)
   Use lodash in place of clone, avoid clipping start of stack trace
 
 v0.1.10 (18 Jan 2015)
